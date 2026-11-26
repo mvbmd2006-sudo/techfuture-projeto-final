@@ -1,0 +1,10 @@
+CHECKLIST DE ENTREGA — TECHFUTURE
+
+[x] Nome completo na página Sobre (Marcos Victor Barbosa Meneses Damasceno).
+[x] Abrir e testar as cinco páginas.
+[x] Testar 375 px, 768 px e 1366 px (sem rolagem horizontal).
+[x] Capturas de tela em images/screenshots/ e incluídas no README.
+[ ] Confirmar a API na página Projetos com internet.
+[ ] Criar repositório no GitHub e enviar todos os arquivos.
+[ ] Colocar o link do GitHub na entrega.
+[ ] Preparar a apresentação individual (roteiro no README).
