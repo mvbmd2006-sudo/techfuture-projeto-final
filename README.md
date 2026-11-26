@@ -59,15 +59,18 @@ Teste as páginas nas larguras de **375 px**, **768 px** e **1366 px** usando as
 
 - **375 px** — página inicial (smartphone):
 
-  ![Página inicial em 375 px](images/screenshots/375px.png)
+  ![Página inicial em 375 px](<img width="1644" height="972" alt="Captura de tela 2026-11-25 225928" src="https://github.com/user-attachments/assets/1db104d4-a590-4957-93eb-16bf1b15bc94" />
+)
 
 - **768 px** — página Cursos (tablet):
 
-  ![Página Cursos em 768 px](images/screenshots/768px.png)
+  ![Página Cursos em 768 px](<img width="1790" height="916" alt="Captura de tela 2026-11-25 225953" src="https://github.com/user-attachments/assets/999b45f4-2556-44c8-95d3-a40a5bc82757" />
+)
 
 - **1366 px** — página inicial (desktop):
 
-  ![Página inicial em 1366 px](images/screenshots/1366px.png)
+  ![Página inicial em 1366 px](<img width="1919" height="988" alt="Captura de tela 2026-11-25 230014" src="https://github.com/user-attachments/assets/aeeaa3c3-9b4d-4929-8da0-c944cd26a27a" />
+)
 
 ## Autoria
 
