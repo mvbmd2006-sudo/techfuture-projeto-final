@@ -65,7 +65,8 @@ Teste as páginas nas larguras de **375 px**, **768 px** e **1366 px** usando as
 
 - **768 px** — página Cursos (tablet):
 
-  ![Página Cursos em 768 px](<img width="1790" height="916" alt="Captura de tela 2026-11-25 225953" src="https://github.com/user-attachments/assets/999b45f4-2556-44c8-95d3-a40a5bc82757" />
+  ![Página Cursos em 768 px](<img width="1790" height="916" alt="image" src="https://github.com/user-attachments/assets/1822fc6b-1e0d-4e70-885f-965df665f206" />
+
 )
 
 - **1366 px** — página inicial (desktop):
