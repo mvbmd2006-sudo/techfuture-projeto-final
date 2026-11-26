@@ -71,32 +71,4 @@ Teste as páginas nas larguras de **375 px**, **768 px** e **1366 px** usando as
 
 ## Autoria
 
-Projeto individual desenvolvido por **Marcos Victor Barbosa Meneses Damasceno**. Para usar outra conta na demonstração da API, altere `octocat` no endereço da API em `js/main.js` para o nome de usuário desejado do GitHub.
-
-## Publicar no GitHub
-
-Crie um repositório no GitHub, envie a pasta do projeto e copie o link do repositório para a entrega. Se usar Git no terminal:
-
-```bash
-git init
-git add .
-git commit -m "Projeto final TechFuture"
-git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/techfuture.git
-git push -u origin main
-```
-
-Substitua `SEU-USUARIO` pelo seu usuário real do GitHub.
-
-
-## Roteiro sugerido para apresentação individual (15 minutos)
-
-1. **Abertura (1 min):** apresente o tema TechFuture e o objetivo do site.
-2. **Navegação (3 min):** mostre as cinco páginas e explique o menu compartilhado.
-3. **HTML5 e BEM (3 min):** mostre a estrutura semântica e exemplos como `.card`, `.card__title` e `.card--featured`.
-4. **Flexbox e Grid (3 min):** demonstre o cabeçalho, estatísticas, cartões e grades.
-5. **Responsividade (2 min):** redimensione o navegador para 375 px, 768 px e 1366 px.
-6. **JavaScript e API (2 min):** na página Projetos, clique em “Carregar projetos” e explique o `fetch()` da API pública do GitHub.
-7. **Encerramento (1 min):** resuma o que aprendeu e apresente a documentação no README.
-
-**Dica:** ensaie a demonstração e deixe as cinco páginas abertas em abas antes de começar.
+Projeto individual desenvolvido por **Marcos Victor Barbosa Meneses Damasceno**.
