@@ -59,7 +59,8 @@ Teste as páginas nas larguras de **375 px**, **768 px** e **1366 px** usando as
 
 - **375 px** — página inicial (smartphone):
 
-  ![Página inicial em 375 px](<img width="1644" height="972" alt="Captura de tela 2026-11-25 225928" src="https://github.com/user-attachments/assets/1db104d4-a590-4957-93eb-16bf1b15bc94" />
+  ![Página inicial em 375 px](<img width="1644" height="972" alt="image" src="https://github.com/user-attachments/assets/c5f5f2b4-2b04-4d05-98ae-bebc476a4af1" />
+
 )
 
 - **768 px** — página Cursos (tablet):
