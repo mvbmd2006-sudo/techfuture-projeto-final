@@ -71,7 +71,8 @@ Teste as páginas nas larguras de **375 px**, **768 px** e **1366 px** usando as
 
 - **1366 px** — página inicial (desktop):
 
-  ![Página inicial em 1366 px](<img width="1919" height="988" alt="Captura de tela 2026-11-25 230014" src="https://github.com/user-attachments/assets/aeeaa3c3-9b4d-4929-8da0-c944cd26a27a" />
+  ![Página inicial em 1366 px](<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/473fe7c0-5435-4133-9f20-4197c544eadf" />
+
 )
 
 ## Autoria
